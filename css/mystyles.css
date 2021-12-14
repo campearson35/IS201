@@ -1,0 +1,121 @@
+.newfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.newbigfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+
+body {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.small { font-size: small;}
+
+
+.centered {text-align: center;}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 99%
+   
+}
+
+.underline {text-decoration: underline white;
+}
+
+a:link {color: white;}
+a:visited{color: white;}
+a:hover {text-decoration: underline;}
+
+.common {
+    border: solid 2px white;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 125px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+
+.leftmenu {
+    top: 164px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    padding-top: 15px;
+    z-index: 1;
+    border-right: solid 1px #555555;
+}
+
+.mainbody {
+    top: 130px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+.rightmenu {
+    top: 150px;
+    bottom: 64px;
+    right: 5px;
+    width: 100px;
+    border-left: solid 1px #555555;
+    padding-left: 5px;
+}
+
+.footer {
+    bottom: 8px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+}
+
+.subheader {
+    float: right;
+    padding-right: 5px;
+}
+
+.background {
+    background-color: #504a4a;
+}

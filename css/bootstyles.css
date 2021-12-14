@@ -1,0 +1,160 @@
+.newfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.newbigfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+
+body {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.small { font-size: small;}
+
+.centered {text-align: center;}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 99% 
+}
+
+.underline {text-decoration: underline white;}
+
+a:link {color: white;}
+
+a:visited{color: white;}
+
+a:hover {text-decoration: underline;}
+
+.footertext { color:white}
+
+.common {
+    position: absolute;
+}
+
+.navigation {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 75px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+
+.tableau {
+    top: 130px;
+    bottom: 64px;
+    left: 5px;
+    right: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+
+.footer {
+    bottom: 8px;
+    height: 20px;
+    left: 5px;
+    right: 5px;
+    top: auto;
+    font-size: 12px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+}
+
+.subheader {
+    float: right;
+    padding-right: 5px;
+}
+
+.background {
+    background-color: rgb(83, 78, 83);
+}
+
+.topleft {
+    float: right;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 200px;
+    max-width: 48%;
+    width: 500px;
+    max-height: 30%;
+    height: 500px;
+}
+
+.topright {
+    float: right;
+    padding-top: 255;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 10%;
+    max-width: 48%;
+    width: 500px;
+    max-height: 30%;
+    height: 500px;
+}
+
+.third {
+    float: right;
+    padding-top: 255;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 10%;
+    max-width: 48%;
+    width: 500px;
+    max-height: 30%;
+    height: 500px;
+}
+
+.fourth {
+    float: right;
+    padding-top: 255;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 10%;
+    max-width: 48%;
+    width: 500px;
+    max-height: 30%;
+    height: 500px;
+}
+
+.caption {
+    position: relative;
+    float: right;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 10%;
+    padding-top: 15%;
+}
